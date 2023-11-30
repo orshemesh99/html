@@ -105,7 +105,7 @@
     }
     .mean-container .mean-nav ul li a {
         padding: 1em 4%;
-        width: 92%;
+        width: 150%;
     }
     .mean-container .mean-nav ul li li a {
         width: 90%;
@@ -183,7 +183,8 @@
 
 @media (min-width: 768px) and (max-width: 991px) {
     .main-menu ul>li a {
-       padding: 8px 7px 0 7px;
+       padding: 40px 7px 0 30px;
+	
     }
     .full-slider_cont h1 {
         font-size: 40px;

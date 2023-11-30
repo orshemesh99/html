@@ -1064,12 +1064,12 @@ nav.main-menu {
 	line-height: 20px;
 	font-size: 30px;
 	display: block;
-	font-weight: 500;
+	font-weight: 800;
 	color: #fff;
 }
 
 .main-menu ul li:last-child a {
-	padding-right: 0;
+	padding-left: 0;
 }
 
 .sub-down li {
@@ -1364,7 +1364,7 @@ nav.main-menu {
 ---------------------------------------------------------------------*/
 
 .header {
-	background-color:blue;
+	background-color:red;
 	padding: 30px 0px;
 	padding-bottom: 25px;
 }
@@ -2067,12 +2067,12 @@ font-family:Guttman Yad-Brush;
 }
 
 .footer {
-	background: blue;
-	padding-top: 20px;
+	background: black;
+	padding-top: 10px;
 }
 
-.footer .address h3 {
-	color: #fff;
+.footer .address h6 {
+	color: blue;
 	font-size: 25px;
 	line-height: 35px;
 	font-weight: 500;
@@ -2087,6 +2087,7 @@ font-family:Guttman Yad-Brush;
 
 .footer .address i img {
 	padding-right: 10px;
+	
 }
 
 .form-control {
